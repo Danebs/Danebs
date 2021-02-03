@@ -1,7 +1,7 @@
 ### Hello Friend 👋
 😉 **I'm Daniel Silva** 
 
-👨🏾‍💻 I'am a Salesforce Developer with Fullstack skills
+👨🏾‍💻 I'm Working currently with Salesforce Development, but I also have Fullstack skills
 From Brazil :brazil: since 1997 👶🏻
 
 [![Linkedin Badge](https://img.shields.io/badge/Daniel%20Silva-18B05F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-batista-9ab57a123)](https://www.linkedin.com/in/daniel-batista-9ab57a123) 
